@@ -1,4 +1,5 @@
 # Game-Flash-Card-App
+<b>NOTE: Dimensions of the UI may vary from system to system</b></br>
 DESCRIPTION:</br>
 -- This is an educational application and is developed using tkinter library of Python.</br>
 -- This can be used to learn french and is implemented using the flash card concept</br>
